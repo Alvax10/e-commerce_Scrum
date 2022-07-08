@@ -106,7 +106,7 @@
     - Sacar redes del footer.
     - Palabra “Encuentra” en vez de "Encontrá" en el buscador.
     - Cards con precio de los productos en peso boliviano.
-    - Pagination (sacarla de catálogo). Agrandar las flechas y darles ```css cursor: pointer;```
+    - Pagination (sacarla de catálogo). Agrandar las flechas y darles ```cursor: pointer;```
     - Ajustar las cards para que todas tengan el mismo tamaño.
     
 ### Retro: 06/07/22 a las 17hs Arg:
