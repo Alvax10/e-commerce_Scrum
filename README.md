@@ -15,8 +15,8 @@
  - **MVP**: Una pagina que muestre todos los productos (descripciones/especificaciones/precio) , que cuente con un buscador, en cada producto un enlace directo para comunicarse con el vendedor, y cada vendedor pueda tener su propio catalogo de productos.
  
  - **PROYECTOS SIMILARES**: 
-    - *MARKETPLACE-FACEBOOK: Es el que actualmente mas se utiliza,si bien los vendedores dejan su numero de whatsapp en algunas publicaciones en cada publicacion hay que copiar pegar un numero de facebook a celular ya que no ofrece acceso directo y no todos los vendedores ofrecen una atencion rapida por medio de messager. 
-    - *MERCADOLIBRE: Es una pagina que no tiene ingerencia en el mercado, solo algunas publicaciones. 
+    - **MARKETPLACE-FACEBOOK**: Es el que actualmente mas se utiliza,si bien los vendedores dejan su numero de whatsapp en algunas publicaciones en cada publicacion hay que copiar pegar un numero de facebook a celular ya que no ofrece acceso directo y no todos los vendedores ofrecen una atencion rapida por medio de messager. 
+    - **MERCADOLIBRE**: Es una pagina que no tiene ingerencia en el mercado, solo algunas publicaciones. 
 
  
 ## Web:
@@ -37,25 +37,19 @@
 	        Matías Toledo.
     - Tareas:
       **FrontEnd**:
-      
         - Alva:
           Poder publicar los productos.
           Estilar la home de la webpage.
           Permitir actualizar los datos del perfil del usuario.
-          
         - Mati:  
           Modificar los estilos del perfil del usuario.
           Estilar las cards de los productos.
-
-	    **BackEnd**:
-		
-	      - Mati:
+      **BackEnd**:	
+	- Mati:
           Hacer form para cargar los productos (Back y front).
-	
-	      - Fran:
+	- Fran:
           Actualizar los datos del perfil del usuario.
-
-    - Definimos el día y el horario de los dailys.
+	- Definimos el día y el horario de los dailys.
         1er día: 30 de junio 2022, hora a (19:00 hs, Arg).
 
 ### Daily 1: 30/06/22 a las 19hs Arg:
@@ -119,13 +113,13 @@
 
   #### Mi opinión sobre el proyecto y el desafío final:
   
-    Yo creo que todo fue bastante fluido, nos adaptamos a la formas distintas de trabajar que teníamos los 3 contribudores del proyecto y lo llevamos adelante. El estilo de trabajo de cada uno varía bastante y la forma de pensar la lógica para el código también, hubiese sido mejor todavía si tomábamos un estilo de trabajo como base.
+  Yo creo que todo fue bastante fluido, nos adaptamos a la formas distintas de trabajar que teníamos los 3 contribudores del proyecto y lo llevamos adelante. El estilo de trabajo de cada uno varía bastante y la forma de pensar la lógica para el código también, hubiese sido mejor todavía si tomábamos un estilo de trabajo como base.
     
-    Me gustó mucho que hayamos creado una branch `prueba` y que para otras pruebas más "complejas" de código hayamos creado una rama aparte basándonos en `prueba` para no romper la branch de producción `main`. Nuestra organización fue clave para el proyecto, escribíamos todo lo que hacíamos y faltaba hacer en `Trello`, de esta forma, todos los días entrabamos para ver qué bugs teníamos que corregir y a quién se le asignaba cada tarea.
+  Me gustó mucho que hayamos creado una branch `prueba` y que para otras pruebas más "complejas" de código hayamos creado una rama aparte basándonos en `prueba` para no romper la branch de producción `main`. Nuestra organización fue clave para el proyecto, escribíamos todo lo que hacíamos y faltaba hacer en `Trello`, de esta forma, todos los días entrabamos para ver qué bugs teníamos que corregir y a quién se le asignaba cada tarea.
     
-    No hubo errores graves que nos hayan complicado las cosas a la hora de codear/trabajar, cada vez que alguno de los contribudores tenía un problema, siempre estábamos en whatsapp ayudándonos a pensar como solucionarlo y seguir adelante con el proyecto.
+  No hubo errores graves que nos hayan complicado las cosas a la hora de codear/trabajar, cada vez que alguno de los contribudores tenía un problema, siempre estábamos en whatsapp ayudándonos a pensar como solucionarlo y seguir adelante con el proyecto.
     
-    Me pareció interesante realizar un brief con una problemática de otro país (Bolivia), ya que casi siempre apuntamos a mejorar cosas que ocurren solo en nuestro país o hasta en nuestra ciudad/provincia, está bueno indagar y entender que está pasando en otros países también.
+  Me pareció interesante realizar un brief con una problemática de otro país (Bolivia), ya que casi siempre apuntamos a mejorar cosas que ocurren solo en nuestro país o hasta en nuestra ciudad/provincia, está bueno indagar y entender que está pasando en otros países también.
     
   Para que nuestra experiencia haya sido de solo un año y sea la primera vez en la que trabajamos en un grupo, pudimos llevar adelante una metodología para poder manipular los repositorios entre los 3 contribuyentes sin chocarnos el uno con el otro y nunca hubo un problema de ese estilo, lo cuál me alegra mucho ya que demuestra nuestro nivel de organización y responsabilidad.
   
@@ -133,5 +127,4 @@
   
   Disfruté mucho este desafío y este proyecto, muy buen grupo y se nota cuando todas las personas quieren y están dispuestas a trabajar.
   
-  
-### Proyecto Desafío Final Módulo 11 (Carrera apx).
+### Proyecto Desafío Final Módulo 11: BOMARKET (Carrera apx).
