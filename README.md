@@ -22,6 +22,10 @@
 ## Web:
   - **URL**: https://bomarket.vercel.app/
 
+## Github Repository:
+  - **Frontend URL**: https://github.com/fiba-dev/bomarket-front
+  - **Backend URL**: https://github.com/fiba-dev/bomarket-backend
+
 ## Scrum:
 
   > **Planning Sprint 1**:
