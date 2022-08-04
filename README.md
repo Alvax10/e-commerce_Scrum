@@ -32,28 +32,28 @@
     - Organizando la planning con lo que se necesita realizar de código.
     - Viendo cómo distribuir los datos en la base de datos de la forma más óptima.
     - Escribimos los user stories en trello.
-    - Definimos roles:
-        **FrontEnd**:
+   > Definimos roles:
+        - **FrontEnd**:
 	        Alvaro Bastía.
-        **Backend**:
+        - **Backend**:
 	        Fran Ibarrola.
-        **Fullstack**:
+        - **Fullstack**:
 	        Matías Toledo.
-    - Tareas:
+    Tareas:
       **FrontEnd**:
-        - Alva:
-          Poder publicar los productos.
+        Alva:
+	  Poder publicar los productos.
           Estilar la home de la webpage.
           Permitir actualizar los datos del perfil del usuario.
-        - Mati:  
+        Mati:  
           Modificar los estilos del perfil del usuario.
-          Estilar las cards de los productos.
-      **BackEnd**:	
-	- Mati:
+          Estilar las cards de los productos.  
+     **BackEnd**:	
+	Mati:
           Hacer form para cargar los productos (Back y front).
-	- Fran:
+	Fran:
           Actualizar los datos del perfil del usuario.
-	- Definimos el día y el horario de los dailys.
+	° Definimos el día y el horario de los dailys.
         1er día: 30 de junio 2022, hora a (19:00 hs, Arg).
 
 ### Daily 1: 30/06/22 a las 19hs Arg:
