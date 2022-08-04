@@ -1,4 +1,4 @@
-# desafio-final-m11
+# apx-challenge-m11
 
 > Proyecto realizado por: **Matías Toledo**, **Francisco Ibarrola** y **Álvaro Bastía**.
 
